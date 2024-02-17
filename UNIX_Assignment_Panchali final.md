@@ -16,7 +16,7 @@ By inspecting this file I learned that:
 
 1. This file hs 986 column
 2. File size is 6.7 M
-3. 2783 words in this file
+3. 2783 lines in this file
 4. We can see the file in tabulated form by the 4th code here.
 
 or
@@ -38,7 +38,7 @@ By inspecting this file I learned that:
 
 1. This file has 15 column
 2. File size is 49 K
-3. There are 984 words in this file
+3. There are 984 lines in this file
 4. We can see the SNP ID, Marker ID, Chromosome, position etc from the code
 
 or
